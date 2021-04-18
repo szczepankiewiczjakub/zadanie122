@@ -1,3 +1,4 @@
 pierwsza linia, J.Sz
 druga linia / j-j12
 trzecia linia nowa gałąź/j-j12
+czwarat linia /j-j12
